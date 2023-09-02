@@ -1,4 +1,4 @@
-class Memcached < Formula
+class MemcachedCli < Formula
     desc "Simple CLI for a memcacheed server written in Rust"
     homepage "https://github.com/grcooper/memcached-cli"
     url "https://github.com/grcooper/memcached-cli/releases/download/v0.1.0/memcached-cli.tar.gz"
